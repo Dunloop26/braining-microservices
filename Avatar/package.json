@@ -1,0 +1,27 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "branca": "^0.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-bearer-token": "^2.4.0",
+    "express-json-validator-middleware": "^2.0.0",
+    "express-validator": "^6.3.0",
+    "knex": "^0.20.15",
+    "njwt": "^1.0.0",
+    "nodemon": "^2.0.2",
+    "pg": "^7.14.0",
+    "redis": "^2.8.0",
+    "token": "^0.1.0",
+    "validator": "^12.1.0"
+  }
+}
